@@ -41,6 +41,6 @@ From this data, it's reasonable to infer that the bank's marketing team could in
 
 # Model Evaluation
 
-![image](https://github.com/user-attachments/assets/26a8bf0c-68c4-4857-8fb4-94bb1f2058a8)
+![image](https://github.com/user-attachments/assets/bba659fb-e1aa-46b7-9772-4dd7222d3792)
 
 <p align="justify"> Table illustrates the performance metrics of three machine learning models: Neural Net, Gradient Boosting, and Naïve Bayes. Across various metrics including accuracy, precision, recall, and F1 score, distinct differences emerge among the models, highlighting their strengths and weaknesses. The Neural Net model demonstrates superior overall performance, boasting the highest accuracy of 85% and recall of 86%. Its precision score of 82.6% and F1 score of 84.3% further solidify its effectiveness in correctly classifying instances and capturing true positive cases. Following closely behind, the Gradient Boosting model achieves competitive scores with an accuracy of 84%, precision of 82.3%, recall of 85.6%, and an F1 score of 83.9%. While it slightly lags behind Neural Net in terms of accuracy and recall, its precision and F1 score demonstrate a balanced performance across the metrics. Conversely, the Naïve Bayes model exhibits an accuracy of 72% and the lowest recall score of 56.5%, indicating its challenges in correctly identifying positive instances. Despite achieving the highest precision score of 78.4%, its compromised recall results in a lower F1 score of 65.7%, suggesting a trade-off between precision and recall. 

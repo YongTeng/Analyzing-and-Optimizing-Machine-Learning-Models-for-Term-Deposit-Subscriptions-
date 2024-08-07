@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8d589505-3c56-4c9b-93fa-afa9b4b77980)![image](https://github.com/user-attachments/assets/8eff513f-7463-4a94-aba5-87a7a8656037)![image](https://github.com/user-attachments/assets/18954427-1cba-4208-9262-30cb6ffb9df5)# Problem Statement
+# Problem Statement
 
 <p align="justify"> The scope of this problem encompasses several dimensions. Firstly, it involves analyzing client data, including age, job type, marital status, education level, credit default status, housing loan status, personal loan status, and balance. These factors provide insights into the client's financial stability, lifestyle, and potential willingness to invest in a term deposit. Additionally, the problem involves considering the details of the last contact made during the current campaign, such as the communication type, month, day, and duration of the contact. These factors may influence the client's receptiveness to the term deposit offer and their likelihood of subscribing .
 
